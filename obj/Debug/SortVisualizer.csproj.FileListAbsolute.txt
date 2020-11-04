@@ -1,0 +1,10 @@
+C:\Users\Speedy\Documents\Projects\_Beginners projects\SortVisualizer\SortVisualizer\bin\Debug\SortVisualizer.exe.config
+C:\Users\Speedy\Documents\Projects\_Beginners projects\SortVisualizer\SortVisualizer\bin\Debug\SortVisualizer.exe
+C:\Users\Speedy\Documents\Projects\_Beginners projects\SortVisualizer\SortVisualizer\bin\Debug\SortVisualizer.pdb
+C:\Users\Speedy\Documents\Projects\_Beginners projects\SortVisualizer\SortVisualizer\obj\Debug\SortVisualizer.csprojAssemblyReference.cache
+C:\Users\Speedy\Documents\Projects\_Beginners projects\SortVisualizer\SortVisualizer\obj\Debug\SortVisualizer.Properties.Resources.resources
+C:\Users\Speedy\Documents\Projects\_Beginners projects\SortVisualizer\SortVisualizer\obj\Debug\SortVisualizer.csproj.GenerateResource.cache
+C:\Users\Speedy\Documents\Projects\_Beginners projects\SortVisualizer\SortVisualizer\obj\Debug\SortVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\Speedy\Documents\Projects\_Beginners projects\SortVisualizer\SortVisualizer\obj\Debug\SortVisualizer.exe
+C:\Users\Speedy\Documents\Projects\_Beginners projects\SortVisualizer\SortVisualizer\obj\Debug\SortVisualizer.pdb
+C:\Users\Speedy\Documents\Projects\_Beginners projects\SortVisualizer\SortVisualizer\obj\Debug\SortVisualizer.Form_SortVisualizer.resources
