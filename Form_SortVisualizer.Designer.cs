@@ -88,7 +88,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.hScrollBar_Speed.LargeChange = 50;
             this.hScrollBar_Speed.Location = new System.Drawing.Point(71, 534);
-            this.hScrollBar_Speed.Maximum = 1010;
+            this.hScrollBar_Speed.Maximum = 1049;
             this.hScrollBar_Speed.Name = "hScrollBar_Speed";
             this.hScrollBar_Speed.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.hScrollBar_Speed.Size = new System.Drawing.Size(920, 21);
